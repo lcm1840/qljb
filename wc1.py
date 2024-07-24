@@ -1,5 +1,5 @@
 '''
-cron: 30 11 * * *
+cron: 0 9  * * *
 new Env('望潮阅读抽奖');
 问题反馈联系请联系：https://t.me/bwersgt
 群组：https://t.me/yangmaoxz
